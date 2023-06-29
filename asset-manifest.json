@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-in-React/static/css/main.54ab64e2.css",
+    "main.js": "/Portfolio-in-React/static/js/main.c69e8b6a.js",
+    "static/media/me4.JPG": "/Portfolio-in-React/static/media/me4.de7597c2e2f5c606395f.JPG",
+    "static/media/me3.JPG": "/Portfolio-in-React/static/media/me3.66e0220dae9508ae4937.JPG",
+    "static/media/cv.pdf": "/Portfolio-in-React/static/media/cv.1cea607951f5b9ca44a1.pdf",
+    "static/media/exture-png.png": "/Portfolio-in-React/static/media/exture-png.afa968386d0187a2bc74.png",
+    "index.html": "/Portfolio-in-React/index.html",
+    "main.54ab64e2.css.map": "/Portfolio-in-React/static/css/main.54ab64e2.css.map",
+    "main.c69e8b6a.js.map": "/Portfolio-in-React/static/js/main.c69e8b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ab64e2.css",
+    "static/js/main.c69e8b6a.js"
+  ]
+}
